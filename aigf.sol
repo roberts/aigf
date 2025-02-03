@@ -1226,9 +1226,9 @@ contract AIGF is ERC20, Ownable {
             marketingLopsidedSellTax +
             developerLopsidedSellTax;
 
-        communityWallet = address(0xC6aa2f0FF6b8563EA418ec2558890D6027413699); // Community Funds
-        marketingWallet = address(0xC6aa2f0FF6b8563EA418ec2558890D6027413699); // Marketing Funds
-        developerWallet = address(0xA6d26E99660de4974B8994eCF75dcD4Cf34951B6); // Developer Funds
+        communityWallet = address(0x6aa2DF9Efe5335780c12DE4C5d88565B8Faa83d5); // Community Funds
+        marketingWallet = address(0xf599243E088Be9e3DfBCD70328733E03C3c46337); // Marketing Funds
+        developerWallet = address(0x9de74AB6116cF298C99C934292BA64b5E064d44d); // Developer Funds
 
         _mint(address(this), totalSupply);
 
