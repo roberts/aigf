@@ -1,6 +1,12 @@
 /**
  *
  *
+   $AIGF on base chain
+   AI Agent Girlfriends
+   https://AIGF.pro
+   https://x.com/AIGF_Base
+   https://AIGF_Base
+
    Contract features:
    100,000,000 tokens
    3% buy tax in ETH sent to community, marketing & developer
